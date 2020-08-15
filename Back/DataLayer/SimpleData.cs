@@ -11,8 +11,8 @@ namespace DataLayer
         {
             if (!context.Codes.Any())
             {
-                context.Codes.Add(new Entityes.Code() { Id = 1, Value = 145, Name="Код" });
-                context.Codes.Add(new Entityes.Code() { Id = 2, Value = 783, Name = "Водафон" });
+                context.Codes.Add(new Entityes.Code() { Value = 145, Name="Код" });
+                context.Codes.Add(new Entityes.Code() { Value = 783, Name = "Водафон" });
                 context.SaveChanges();
             }
         }
