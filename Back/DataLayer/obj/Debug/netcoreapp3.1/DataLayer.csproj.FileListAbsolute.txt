@@ -1,0 +1,10 @@
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
