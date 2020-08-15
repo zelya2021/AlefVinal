@@ -8,3 +8,13 @@ D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debu
 D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
 D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
 D:\Romaina_Mayer\additionally\self_development\AlefVinal\Bask\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
