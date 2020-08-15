@@ -5656,11 +5656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\Bask\\Back.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\AlefVinal\\Back\\Bask\\Back.csproj",
       "projectName": "Back",
-      "projectPath": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\Bask\\Back.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\Bask\\Back.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\Bask\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\Bask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5679,8 +5679,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj"
+            "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj"
             }
           }
         }

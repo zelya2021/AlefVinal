@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {}
+    "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {
+    "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Romaina_Mayer\\additionally\\self_development\\AlefVinal\\Back\\DataLayer\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
