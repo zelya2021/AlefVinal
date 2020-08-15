@@ -1,0 +1,16 @@
+body{
+    padding: 2%;
+}
+.location{
+    width: 50%;
+    float: left;
+    margin: 0 3% 0 0;
+}
+.locationSecondForm{
+    padding: 3% 0;
+}
+.list{
+    width: 47%;
+    float:right;
+    position: center;
+}
