@@ -1,0 +1,11 @@
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\bin\Debug\netcoreapp3.1\BuissnesLayer.deps.json
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\bin\Debug\netcoreapp3.1\BuissnesLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\bin\Debug\netcoreapp3.1\BuissnesLayer.pdb
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\obj\Debug\netcoreapp3.1\BuissnesLayer.csprojAssemblyReference.cache
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\obj\Debug\netcoreapp3.1\BuissnesLayer.AssemblyInfoInputs.cache
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\obj\Debug\netcoreapp3.1\BuissnesLayer.AssemblyInfo.cs
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\obj\Debug\netcoreapp3.1\BuissnesLayer.csproj.CopyComplete
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\obj\Debug\netcoreapp3.1\BuissnesLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\BuissnesLayer\obj\Debug\netcoreapp3.1\BuissnesLayer.pdb

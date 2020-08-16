@@ -17,4 +17,3 @@ C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.Assem
 C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
 C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
 C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
-C:\xampp\htdocs\AlefVinal\Back\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache

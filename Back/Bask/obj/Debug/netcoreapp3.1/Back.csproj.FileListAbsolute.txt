@@ -152,3 +152,5 @@ C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.Views.pdb
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.csproj.CopyComplete
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.dll
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.pdb
+C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\BuissnesLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\BuissnesLayer.pdb
