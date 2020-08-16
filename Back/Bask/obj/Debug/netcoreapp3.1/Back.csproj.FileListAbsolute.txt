@@ -154,3 +154,5 @@ C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.pdb
 C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\BuissnesLayer.dll
 C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\BuissnesLayer.pdb
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

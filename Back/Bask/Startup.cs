@@ -31,13 +31,8 @@ namespace Bask
             services.AddDbContext<EFDBContext>(options => options.UseSqlServer(connection, b => b.MigrationsAssembly("DataLayer")));
 
             // Auto Mapper Configurations
-            var mapperConfig = new MapperConfiguration(mc =>
-            {
-                mc.AddProfile(new MappingProfile());
-            });
-
-            IMapper mapper = mapperConfig.CreateMapper();
-            services.AddSingleton(mapper);
+            services.AddAutoMapper(typeof(Startup));
+            services.AddControllersWithViews();
 
             services.AddMvc();
         }
