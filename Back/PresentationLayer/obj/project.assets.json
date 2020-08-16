@@ -125,22 +125,6 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/3.1.7": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "3.1.7"
-        },
-        "compile": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
-        },
-        "build": {
-          "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props": {}
-        }
-      },
       "Microsoft.EntityFrameworkCore.Relational/3.1.7": {
         "type": "package",
         "dependencies": {
@@ -1775,22 +1759,6 @@
         "lib/netstandard2.0/_._",
         "microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.Design/3.1.7": {
-      "sha512": "gSRNa758T3dCqg5JUvOMMfDxx1Y8oFipf6t2bMg8KDpNyzVfp2YmjUsdQHDDIjiG4X8m3jkkykQPqBS0GsJD/A==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.design/3.1.7",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "build/net461/Microsoft.EntityFrameworkCore.Design.props",
-        "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props",
-        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll",
-        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.3.1.7.nupkg.sha512",
-        "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/3.1.7": {
@@ -5732,9 +5700,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BuissnesLayer >= 1.0.0",
-      "DataLayer >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.Design >= 3.1.7"
+      "AutoMapper >= 10.0.0",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.0.1",
+      "BuissnesLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5744,11 +5712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\AlefVinal\\Back\\Bask\\Back.csproj",
-      "projectName": "Back",
-      "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\Bask\\Back.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\AlefVinal\\Back\\PresentationLayer\\PresentationLayer.csproj",
+      "projectName": "PresentationLayer",
+      "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\PresentationLayer\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\Bask\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5769,9 +5737,6 @@
           "projectReferences": {
             "C:\\xampp\\htdocs\\AlefVinal\\Back\\BuissnesLayer\\BuissnesLayer.csproj": {
               "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\BuissnesLayer\\BuissnesLayer.csproj"
-            },
-            "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "C:\\xampp\\htdocs\\AlefVinal\\Back\\DataLayer\\DataLayer.csproj"
             }
           }
         }
@@ -5785,11 +5750,13 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
+          "AutoMapper": {
             "target": "Package",
-            "version": "[3.1.7, )"
+            "version": "[10.0.0, )"
+          },
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[8.0.1, )"
           }
         },
         "imports": [
@@ -5803,9 +5770,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

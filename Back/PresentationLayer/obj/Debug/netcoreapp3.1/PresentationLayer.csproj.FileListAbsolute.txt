@@ -1,0 +1,7 @@
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\xampp\htdocs\AlefVinal\Back\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb

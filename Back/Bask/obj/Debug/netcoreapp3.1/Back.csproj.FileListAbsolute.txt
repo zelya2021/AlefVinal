@@ -131,7 +131,6 @@ C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\DataLayer.pdb
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.csprojAssemblyReference.cache
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\staticwebassets\Back.StaticWebAssets.Manifest.cache
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\staticwebassets\Back.StaticWebAssets.xml
-C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.MvcApplicationPartsAssemblyInfo.cache
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.RazorAssemblyInfo.cache
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.RazorAssemblyInfo.cs
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.AssemblyInfoInputs.cache
@@ -154,3 +153,4 @@ C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.dll
 C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.pdb
 C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\BuissnesLayer.dll
 C:\xampp\htdocs\AlefVinal\Back\Bask\bin\Debug\netcoreapp3.1\BuissnesLayer.pdb
+C:\xampp\htdocs\AlefVinal\Back\Bask\obj\Debug\netcoreapp3.1\Back.MvcApplicationPartsAssemblyInfo.cache
