@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataLayer.Entityes
 {
-   public class Code
+   public class Code : Page
     {
         public int Id { get; set; }
         public int Value { get; set; }

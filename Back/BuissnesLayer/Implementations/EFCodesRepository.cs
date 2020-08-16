@@ -15,7 +15,7 @@ namespace BuissnesLayer.Implementations
         {
             this.context = context;
         }
-        public IEnumerable<Code> GetAllDirectorys()
+        public IEnumerable<Code> GetAllCodes()
         {
             return context.Codes.ToList();
         }

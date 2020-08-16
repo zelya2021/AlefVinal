@@ -7,7 +7,7 @@ namespace BuissnesLayer.Interfaces
 {
    public interface ICodesRepository
     {
-        IEnumerable<Code> GetAllDirectorys();
+        IEnumerable<Code> GetAllCodes();
         Code GetCodeById(int codeId);
         void SaveCode(Code achieve);
     }
